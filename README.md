@@ -65,16 +65,21 @@ Industrial Automation — PLC, Motor Control
 CodeBind Technologies, Chennai
 Embedded Systems — Arduino, Circuit Design
 2025
+
 🏆 Achievements
 🥇 Rajya Puraskar Award — Bharat Scouts & Guides, Tamil Nadu (2025)
 🥈 Second Prize — Predikathon, Euphoria'24, Kalasalingam Academy (2024)
 💯 100% in SSLC — Government ADW Higher Secondary School (2021)
+
 🎓 Workshops & Training
 Reverse Engineering Bootcamp (2023)
 Build a Better Product Workshop (2024)
 Short-term Training Programme on Electric Vehicles (2025)
+
 📬 Connect with Me
 📧 Email: rajakeerthika807@gmail.com
 💼 LinkedIn: kiruthika-r-218430r
 💻 GitHub: kiruthikarajasekar006
+
+
 ⚡ "Engineering is not just about building things — it's about building things that matter."
