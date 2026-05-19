@@ -11,14 +11,18 @@ Category
 Skills
 Programming
 C, Python
+
 Microcontroller
 Arduino UNO
+
 Simulation
 MATLAB, Proteus, Keil µVision
+
 Hardware
 PLC, Motor Control, IR/PIR Sensors, Li-ion BMS, Relay Circuits
 Domains
 Power Electronics, Embedded Systems, Industrial Automation, EV, IoT
+
 🚀 Projects
 ⚙️ RPM Counter using IR Sensor
 Components: Arduino UNO, IR Sensor (5V), DC Motor (12V)
@@ -33,6 +37,7 @@ Application: Simulated EV range use case
 Components: Arduino UNO, PIR Sensor, Buzzer, LED
 Outcome: Indoor security system with 7m detection range
 Function: Triggers buzzer + LED alert on motion detection
+
 📜 Certifications
 Certificate
 Institution
@@ -49,6 +54,7 @@ College Programme
 Value Added Course — Creative Electronics with Arduino
 College
 2025
+
 💼 Internships
 Company
 Domain
